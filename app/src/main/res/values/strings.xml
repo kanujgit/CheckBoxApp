@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckBoxApp</string>
+    <string name="cb0">Select All</string>
+    <string name="cb1">Kotlin</string>
+    <string name="cb2">JAVA</string>
+    <string name="cb3">Android</string>
+    <string name="cb4">Python</string>
+</resources>
+
